@@ -1,0 +1,31 @@
+Day 3
+
+Collection API
+
+-Set (tidak boleh ada ada duplikasi)
+-List (boleh ada duplikasi)
+-Queue (FIFO)
+-Deque (LIFO)
+-map (key value)
+
+Collection framework
+
+- interace
+- implementation
+- algorithm
+
+BiarySearch tidak akan optimal jika dilakukan kepada array
+jika menggunakan binarysearch maka harus di sorting terlebih dahulu
+
+Array activity
+
+1. Buat sebuah program yang mencari multiple occurences dari beberapa katayang terimpan dalam Array of String
+2. String[] text = {"So", "Many", "Books", "So", "Little", "time"}:
+3. Cari kata "so" ada berapa kali muncul
+4. Pencarian bersifat case insensitive
+5. Output:
+
+Found query at: 0
+Found query at: 3
+
+
